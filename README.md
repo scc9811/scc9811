@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- ![header](https://capsule-render.vercel.app/api?type=Rect&color=0:fff1eb,100:ace0f9&text=scc9811&fontColor=ffffff) -->
+![header](https://capsule-render.vercel.app/api?type=Rect&color=0:fed6e3,100:a8edea&text=scc9811&fontColor=ffffff)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
