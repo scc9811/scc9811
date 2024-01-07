@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 :pencil2: Beakjoon<br><br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=scc9811)](https://solved.ac/scc9811)<br><br>
 
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Jeon9811)](https://codeforces.com/profile/redheadphone)
+
 :clipboard: I've used
 <br><br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
