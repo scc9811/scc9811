@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 :pencil2: Beakjoon<br><br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=scc9811)](https://solved.ac/scc9811)<br><br>
 :pencil2: CodeForces<br><br>
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Jeon9811)](https://codeforces.com/profile/redheadphone)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Jeon9811)](https://codeforces.com/profile/Jeon9811)
 
 :clipboard: I've used
 <br><br>
